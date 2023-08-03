@@ -1,5 +1,9 @@
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=Hi&fontSize=90)
+
+
+
 <div>
-  <h3 align="center">💻 Tech Stack</h3>
+  <h3 align="center">💻 Tech Stack 💻</h3>
   <p align="center">
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
@@ -7,7 +11,7 @@
     <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp 
   </p>
   
-  <h3 align="center">📡 Contact</h3>
+  <h3 align="center">📡 Contact 📡</h3>
   <p align="center">
     <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>&nbsp
     <a href="mailto:ybkz17@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=ybkz17@naver.com"/>
