@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=200&section=header&text=Hi&fontSize=90&fontColor=000000&theme=tokyonight)
+![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=100&section=header&text=Hi&fontSize=50&fontColor=000000&theme=tokyonight)
 
 
 
@@ -33,3 +33,6 @@
   </div>
   
 </div>
+
+
+![footer](https://capsule-render.vercel.app/api?type=rect&color=auto&height=100&section=header&text=Bye&fontSize=50&fontColor=000000&theme=tokyonight)
