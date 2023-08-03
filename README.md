@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=100&section=header&text=👋&fontSize=50&fontColor=000000&theme=tokyonight)
 <br/>
-<h3 align="center">🐢 ... 🐌</h3>
+<h1 align="center">🐢 ... 🐌</h1>
 <br/>
 
 <div>
