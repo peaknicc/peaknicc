@@ -30,7 +30,7 @@
   <br/>
   <br/>
   <div align="center">
-    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpeaknicc%2Fhit-counter&count_bg=%2354CF5F&title_bg=%2348C7D1&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+    <a href="https://github/peaknicc"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpeaknicc%2Fhit-counter&count_bg=%2354CF5F&title_bg=%2348C7D1&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
   </div>
   <br/>
   <br/>
